@@ -1,0 +1,14 @@
+{
+  "name": "beanlmswebcomponents",
+  "version": "0.1.0",
+  "description": "Web Components for BeanLMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BeanDev",
+  "license": "MIT",
+  "workspaces": [
+    "packages/quiz"
+  ]
+}
